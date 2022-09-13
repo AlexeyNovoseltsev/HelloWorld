@@ -19,7 +19,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hello World!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BY6-GQ-bIg">
                                 <rect key="frame" x="16" y="400" width="396" height="126"/>
                                 <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="37"/>
-                                <color key="textColor" red="0.20487653791051499" green="0.87257160273903378" blue="0.13548180651696651" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.16078431904315948" green="0.76470595598220825" blue="0.066666670143604279" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="secondarySystemGroupedBackgroundColor"/>
                                 <variation key="displayGamut=sRGB-heightClass=regular-widthClass=compact">
@@ -38,7 +38,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-120.28985507246378" y="361.60714285714283"/>
+            <point key="canvasLocation" x="184" y="-43"/>
         </scene>
     </scenes>
     <resources>
