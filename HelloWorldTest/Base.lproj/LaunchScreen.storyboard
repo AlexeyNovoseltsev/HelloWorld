@@ -17,22 +17,22 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hello World!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="BY6-GQ-bIg">
-                                <rect key="frame" x="65" y="408.33333333333331" width="298" height="109.33333333333331"/>
-                                <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="32"/>
+                                <rect key="frame" x="16" y="400" width="396" height="126"/>
+                                <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="37"/>
                                 <color key="textColor" red="0.20487653791051499" green="0.87257160273903378" blue="0.13548180651696651" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="secondarySystemGroupedBackgroundColor"/>
                                 <variation key="displayGamut=sRGB-heightClass=regular-widthClass=compact">
-                                    <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="32"/>
+                                    <fontDescription key="fontDescription" name="Zapfino" family="Zapfino" pointSize="34"/>
                                 </variation>
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="BY6-GQ-bIg" secondAttribute="trailing" constant="65" id="ANu-eF-64v"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="BY6-GQ-bIg" secondAttribute="trailing" constant="16" id="ANu-eF-64v"/>
                             <constraint firstItem="BY6-GQ-bIg" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="LWi-bV-4GQ"/>
-                            <constraint firstItem="BY6-GQ-bIg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="65" id="QzG-Sl-uiC"/>
+                            <constraint firstItem="BY6-GQ-bIg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="QzG-Sl-uiC"/>
                         </constraints>
                     </view>
                 </viewController>
